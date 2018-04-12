@@ -1,0 +1,29 @@
+c:\users\thomas\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.exe.config
+c:\users\thomas\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.exe
+c:\users\thomas\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.pdb
+c:\users\thomas\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csprojResolveAssemblyReference.cache
+c:\users\thomas\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.Form1.resources
+c:\users\thomas\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.Properties.Resources.resources
+c:\users\thomas\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.GenerateResource.Cache
+c:\users\thomas\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.exe
+c:\users\thomas\documents\visual studio 2015\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.pdb
+C:\Users\Thomas Donkor\source\repos\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.exe.config
+C:\Users\Thomas Donkor\source\repos\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.exe
+C:\Users\Thomas Donkor\source\repos\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.pdb
+C:\Users\Thomas Donkor\source\repos\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Thomas Donkor\source\repos\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.Form1.resources
+C:\Users\Thomas Donkor\source\repos\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.Properties.Resources.resources
+C:\Users\Thomas Donkor\source\repos\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.GenerateResource.Cache
+C:\Users\Thomas Donkor\source\repos\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.CoreCompileInputs.cache
+C:\Users\Thomas Donkor\source\repos\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.exe
+C:\Users\Thomas Donkor\source\repos\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.pdb
+C:\Users\Thomas Donkor\source\repos\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechClient.dll
+C:\Users\Thomas Donkor\source\repos\SpeechRecognition\SpeechRecognition\bin\Debug\EntityFramework.dll
+C:\Users\Thomas Donkor\source\repos\SpeechRecognition\SpeechRecognition\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Thomas Donkor\source\repos\SpeechRecognition\SpeechRecognition\bin\Debug\System.Data.SQLite.dll
+C:\Users\Thomas Donkor\source\repos\SpeechRecognition\SpeechRecognition\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Thomas Donkor\source\repos\SpeechRecognition\SpeechRecognition\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Thomas Donkor\source\repos\SpeechRecognition\SpeechRecognition\bin\Debug\EntityFramework.xml
+C:\Users\Thomas Donkor\source\repos\SpeechRecognition\SpeechRecognition\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Thomas Donkor\source\repos\SpeechRecognition\SpeechRecognition\bin\Debug\System.Data.SQLite.xml
+C:\Users\Thomas Donkor\source\repos\SpeechRecognition\SpeechRecognition\bin\Debug\System.Data.SQLite.dll.config
